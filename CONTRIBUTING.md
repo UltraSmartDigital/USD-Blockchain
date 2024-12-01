@@ -67,5 +67,3 @@ Running Tests
 npm test
 
 If you have any questions or encounter any issues, please create a new topic in the Issues section. Thank you for contributing to our project!
-
-Add this file to the root directory of your project to guide contributors effectively. Let me know if you need further assistance!
