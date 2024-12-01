@@ -103,13 +103,20 @@ This roadmap outlines the planned features, priorities, and development stages f
 	4.	Deployment of AI Financial Analytics to enhance digital payments and blockchain solutions.
 	5.	Expansion of AI Accessibility Tools, such as text-to-speech and real-time translation.
 
+
 3. Development Phases
 
-	•	Phase 1 (Q1 2025): Implement Text-to-Video and AI Voice Generation.
-	•	Phase 2 (Q2 2025): Develop AI Film Creation and Game Development Tools.
-	•	Phase 3 (Q3 2025): Introduce AI Financial Analytics and Marketing Campaign Solutions.
-	•	Phase 4 (Q4 2025): Launch AI Accessibility and E-Commerce Tools.
+
+ •	Phase 1 (Q1 2025): Implement Text-to-Video and AI Voice Generation.
+
+ •	Phase 2 (Q2 2025): Develop AI Film Creation and Game Development Tools.
+
+ •	Phase 3 (Q3 2025): Introduce AI Financial Analytics and Marketing Campaign Solutions.
+
+ •	Phase 4 (Q4 2025): Launch AI Accessibility and E-Commerce Tools.
+
 
 Conclusion
+
 
 This roadmap showcases our commitment to utilizing the most advanced AI technologies to innovate in blockchain, digital storytelling, and beyond. Stay tuned for updates and progress on these milestones!
