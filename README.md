@@ -4,7 +4,9 @@ Innovative blockchain solutions by Ultra Smart Digital, LLC
 Ultra Smart Digital (USD) is a leading company offering innovative solutions in the field of digital technologies. Our primary focus areas include:
 
 • Blockchain Technology: Delivering secure and transparent financial operations through advanced blockchain solutions.
+
 • USD Stablecoin: A secure and reliable digital currency backed by Ultra Smart Digital.
+
 • Digital Ecosystem: Providing an expanding range of digital services and products to maximize value for our customers.
 
 Our Mission
